@@ -1,0 +1,11 @@
+# Some example packages
+pandas
+numpy
+seaborn
+
+# API-related packages
+streamlit
+
+# Testing packages
+requests
+pytest
