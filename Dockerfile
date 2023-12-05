@@ -7,10 +7,7 @@ RUN pip install -U pip cython wheel
 RUN pip install -r requirements.txt
 
 # Copy the main folder for the API
-COPY api api
 COPY streamlit streamlit
-
-CMD uvicorn api.fast:app --host 0.0.0.0 --port $PORT
 
 EXPOSE 8501
 

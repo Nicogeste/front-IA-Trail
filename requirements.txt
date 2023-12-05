@@ -4,6 +4,7 @@ numpy
 seaborn
 
 # API-related packages
+uvicorn
 streamlit
 
 # Testing packages
