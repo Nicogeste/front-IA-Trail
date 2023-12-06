@@ -5,3 +5,4 @@ __pycache__/
 .env.yaml
 .pythonversion
 text.txt
+.app.yaml
